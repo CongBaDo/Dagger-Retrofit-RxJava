@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger Retrofit Rx</string>
+    <string name="unknown_error">Error Nemo </string>
+</resources>
